@@ -27,12 +27,12 @@ align-items: center;
 text-align: center;
 }
 .container__caixa{
-    margin: 0 6em;
+    margin: o 6em;
 }
 .container__titulo{
   font-size: 28px;
   font-weight: 700;
 }
 .container__imagem{
-    margin: 1em0 2em 0;
+    margin: 1em 0 2em 0;
 }
