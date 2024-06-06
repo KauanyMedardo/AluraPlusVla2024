@@ -26,3 +26,6 @@ background-size: contain;
 align-items: center;
 text-align: center;
 }
+.container__caixa{
+    margin: 0 6em;
+}
