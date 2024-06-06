@@ -29,3 +29,10 @@ text-align: center;
 .container__caixa{
     margin: 0 6em;
 }
+.container__titulo{
+  font-size: 28px;
+  font-weight: 700;
+}
+.container__imagem{
+    margin: 1em0 2em 0;
+}
